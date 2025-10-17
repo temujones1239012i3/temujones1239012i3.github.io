@@ -3,7 +3,7 @@
 -- ============================================================
 
 local PLACE_ID = 109983668079237  
-local RELAY_URL = "https://112341231231-production.up.railway.app/latest"  
+local RELAY_URL = "https://1123412312312-production.up.railway.app/latest"  
 
 -- ============================================================
 -- Services
